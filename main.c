@@ -1,4 +1,4 @@
-// c calculator
+// c arithmetic calculator
 #include <stdio.h>
 
 int main()
@@ -8,7 +8,7 @@ int main()
     // variable to store value for operation in char vlaue
     char op;
     // print a message as title of the program
-    printf("C Calculator\n");
+    printf("C Arithmetic Calculator\n");
     // input a float value from the user as the first operand
     printf("Enter First Number: ");
     // store the value in 'num1' variable
